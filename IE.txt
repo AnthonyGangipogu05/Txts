@@ -1,0 +1,33 @@
+Analysis of I.E 11 End Of Life/Support
+
+1. Official Documentation of I.E 11 which was updated on 17th August 2020
+
+https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge
+
+2. PFA for Important official Dates as per Microsoft.
+
+3. Tech report of Legit Sites:
+    
+    a. https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666
+
+    b. https://www.theverge.com/2020/8/17/21372487/microsoft-internet-explorer-11-support-end-365-legacy-edge
+    
+    c. https://en.wikipedia.org/wiki/Internet_Explorer_11
+
+    d. https://www.xda-developers.com/microsoft-365-end-support-internet-explorer-11-legacy-microsoft-edge-2021/
+
+
+4. YouTube References:
+     https://www.youtube.com/watch?v=-HhURFxdvjE
+
+Final Words:
+
+Microsoft will be pushing an update to the official windows users and install Microsoft edge (a Chromium-based Edge browser). By official means from windows 8.1 onwards.
+Windows 7 EOL was on 14th January 2020.
+
+Because many businesses still rely on legacy IE 11 apps, Microsoft isn’t fully pulling the plug on the browser just yet. IE 11 will continue to function, but Microsoft encourages users to migrate to the new Microsoft Edge which features an Internet Explorer mode to maintain compatibility. The Internet Explorer mode lets you seamlessly access a legacy IE app in one tab while browsing the rest of the modern web in other tabs. Just note that Microsoft 365 apps and services won’t work with Edge’s Internet Explorer mode after August 17, 2021.
+
+1344
+55
+48
+51

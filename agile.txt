@@ -1,0 +1,92 @@
+Questions: - These were for automation QA but some will be common 
+
+Agile - work flow in agile - meetings
+Work flows as per manual QA
+After write  Code - where does your Code go - where the build gets executed 
+- types of testing - 3 to 5 types of testing approaches 
+- diferrence between regression and functional testing 
+- good quality tests - what are the characteristics 
+- what makes ui testing good or bad 
+- http verbs - for aoibteri g 
+- api testing - what it is and tools used 
+- how to tell test case to test of multiple browsers or specific drivers 
+- what are the coding practices - you wiring following 
+- diferrence between class and interface 
+- what is the design pattern in Java 
+- what java framework used
+- key assertions and keywords
+
+Topics:
+Agile 
+Git 
+Continuous deployment 
+Unit testing 
+Jenkins 
+Dependency injection 
+Unit and integration testing importance
+Hardest and easiest thing worked on in project 
+Importance of continuous deployment
+•	Operating Systems: Windows XP/Vista/7/10, Windows Server 2008/2012, Linux
+•	Databases: SQL Server 2008 R2/ 2012
+•	Programming / Scripting Language: Java, Java Script, CSS, HTML
+•	Browsers: IE 7/8/9/10/11, Microsoft Edge, Firefox, Safari, Chrome, Opera 
+•	Documentation: MS Word, MS Excel, MS PowerPoint, Open Office suite, Visio
+
+Software Testing Skills:
+
+•	Testing Tools: XPath, Selenium, Junit
+•	Defect Management Tools: Bugzilla, Jira, Telerik Testing Suite, Microsoft Test manager
+•	CI Tools: Jenkins 
+•	Repository: GIT, TFS, SVN
+•	Data Capture: JING (Screencast), Screengrab, Firebug, IE Dev Bar, Snagit
+•	Methodologies: Functional Testing, Data Base Testing, Database migration testing, Black box testing, White box testing, Smoke Testing, Regression Testing, Integration testing, Performance testing, System testing, User Acceptance Testing
+This was the skill set put in current QA on the team's resume
+What is a good user story 
+
+testing types 
+Test stragegy 
+Test plan 
+How to plan testing 
+Testing in lifecyce of agile
+How work flows in agile 
+Meetings? 
+Examples of most challenging defects you have? 
+Know about git, Jenkins, build process 
+What to do in a senario if only on production and not on environments below that - how to reproduce and handle 
+Have you done cross browser testing - what are the different issues have in these 
+Backend testing - using SQL - validate the data- 
+Your strength in sql- how to write queries 
+- what databases have you worked on? 
+- projects you have worked on - cross database testing / bring database from one database to another - how did you tested - steps you to validate the data 
+- schema, tables what all will verify 
+- what you do, why you do, - what all are good traits of a Qa 
+- defect completed - someone cauth a defect - resolved - how do you go about it - how to resolve issues — looks for - check and make sure test - REGRESSION, 
+Negative testing?
+1-10 scenario - 
+Table validations- 
+Table join - how good are you 
+- rules for joining 2 tables 
+- inner join - what will be the result
+
+
+1 Project Kick off - High level discussion on project, estimation methods finalize, discussion on planning gmeeting 
+2. Backlog Grooming - Backlog - All cards to complete a module by either product owner or scrum master. What are the cards in backlog and whaich have to be priroitzed based on buniness needs or development needs 
+3. Sprint Planning Meeting - priortize the cards, 2 weeks of sprint, we discussed on the cards, gave etimations, QA side I had any queries on the requirements - discussed on these, Also, I used tompropose cards if I though any were nesssesary ot be played/rpriroity, estimation with story points based on the complexity of the card (fabonacci series)/T sizing (XS, S, M, L, XL, XXL), 
+4. Sprint Start -  
+5. Daily standup - What I did today, what plan to do tomorrow and any blockers 
+6. QA - Test Case write for the cards on the sprint, testing of the completed cards in the sprint, testing of the cards on multiple environments, getting things ready for production release if a release is planned, give demos if needed etc..., testing cards based on priority and making a attempt to have all test complete completed tested in the same sprint itself 
+7. Sprint Demos .... (local testing and demo)
+8. Retrospective - What went well, what did not go so well, what you you can improve, any sigessions to improvide the process, any risks that you see
+ - User stores 
+ # Requiremnts for implemtnation from the orespective of end user 
+## Acceptance criteria which has to be met for the story to pass 
+## What is in scope what is out of scope 
+## Detailed requirements 
+## Impact users
+Test cases - 
+QA Pass:
+Your test cases should pass 
+Your ACs have to meet
+Product owner or scrum paster
+
+maheshirappakumbhar@gmail.com

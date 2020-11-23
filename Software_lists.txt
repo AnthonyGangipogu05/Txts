@@ -1,0 +1,67 @@
+----------------------------------
+|       Working as expected      |
+----------------------------------      
+West Valley City:City Suite XML
+Mobile: Billing date
+V2: Billing date
+
+City of enid:Diamond/Incode
+Mobile: Billing date
+V2: Billing date
+
+Jordan valley water: Munis XML
+Mobile: Billing date
+V2: Billing date
+
+Sahuarita Water Company LLC : Datawest
+Mobile: Billing date
+V2: Billing date
+
+City of San Luis: New World Original
+Mobile: Billing date
+V2: Billing date
+
+
+List not added to the case V2-1357 (Working as expected)
+---------------------------------------------------------
+City of brighton:City Suite
+Mobile: Billing date
+V2: Billing date
+
+City of Rexburg:Datanow
+Mobile: Billing date
+V2: Billing date
+
+Mobile Vs V2 Difference list
+==================================
+Benton city:(BIAS) 
+Mobile: Billing period end
+v2: Billing date 
+
+CITY of Airway Heights:
+Mobile: Billing Period End.
+V2: billing date
+
+Eagle Mountain city: Springbrook
+Mobile: Billing period end
+V2: Billing date
+
+Different label name (Billing period)
+####################################
+Birds Pinkstaff Water District : RVS Software
+Mobile: Billing period
+v2: NA
+
+Community water: Com/Water
+Mobile: Billing period
+V2: NA
+
+NA Label on V2
+************************************
+City of Scappoose: Springbrook Accela
+Mobile: Billing period End
+V2: NA
+
+Skyline mountain : Core Utilities
+Mobile: Billing period end
+V2:NA

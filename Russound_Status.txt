@@ -1,0 +1,191 @@
+Today's Status:
+-------------------------------------------------------
+Date- 04/06/2020
+------------------------------------------------------
+1. Going Through Test Run 689
+Case 6203: App Favorites - Switching networks - Completed
+Verified the case on Tidal,Deezer,Napster
+Case 5916: Spotify - Track Time - In Progress
+Looking into the  Bug 21147 and checking the expected result
+Case 6196: App Favorite supported on Controller only. Not supported by source type - Completed
+Verified the case
+
+2. Exploring the system
+Connected both MBX-PRE via Bluetooth
+Able to detect the device in spotify after connecting the dev‪ice using bluetooth
+Connecting the analog port of MBX-PRE
+
+Today's Status:
+-------------------------------------------------------
+Date- 04/07/2020
+------------------------------------------------------
+1. Going Through Test Run 689
+Case 5916: Spotify - Track Time - Completed
+Verified the case
+Expected result for bug 21147: based on slider position the music should play.
+Case 5510: Favorite screens - Overwrite Favorite - In Progress
+Verifying the bugs related to the case
+Case 6202: App Favorites - Add New Favorites - Completed
+Verified the case
+
+2. Exploring the system
+Connected the analog port of MBX-PRE
+Getting along with more telnet commands
+
+Today's Status:
+-------------------------------------------------------
+Date- 04/08/2020
+------------------------------------------------------
+1. Going Through Test Run 689
+Case 5510: Favorite screens - Overwrite Favorite - Completed
+Verified the case and bugs related to the case
+Case 5295: Launcher: selecting an Web Widget shortcut - Completed
+Verified the case and bugs related to the case
+Case 6158: Enable Spotify Link - In Progress
+Verifying the case
+Blocked the case
+Case 5892: SiriusXM Account Setup - Logout
+Case 5891: vTuner Search Stations
+Case 5893: SiriusXM Category navigation and selection
+
+2. Exploring the system
+Getting along with more telnet commands
+
+
+Today's Status:
+-------------------------------------------------------
+Date- 04/09/2020
+------------------------------------------------------
+1. Going Through Test Run 689
+Case 6158: Enable Spotify Link - Completed
+Verified the case and bugs related to the case
+Verified only closed bugs
+Case 5297: Launcher: editing a shortcut - Completed
+Verified the case and bugs related to the case
+Verified only closed bugs
+Case 5919: TIDAL Logout - Completed
+Verified the case and bugs related to the case
+Verified only closed bugs
+Case 6201: App Favorites - Recalling Favorites - In Progress
+Verifying the case
+
+2. Exploring the system
+Getting along with more telnet commands
+
+Today's Status:
+-------------------------------------------------------
+Date- 04/10/2020
+------------------------------------------------------
+1. Going Through Test Run 689
+Case 6201: App Favorites - Recalling Favorites - Completed
+Verified the case and bugs related to the case
+Verified only closed bugs
+Case 6009: Favorites - Add new favorites - Completed
+Analyzed the case as a prerequisite of Case 6201
+Case 4967: Party Mode Zone Settings  - Completed
+Verified the case and bugs related to the case
+Verified only closed bugs
+Blocked some cases related to SiriusXM,Pandora and vTuner
+
+2. Exploring the system
+Getting along with more telnet commands and UPnP
+
+Exploring the Grouping Functionality along with the devs
+Case 6226: Zone Grouping Verification
+	-Analysing the case
+	-Going through the current bugs in the case
+	-Getting an overview of 
+	 Release-2020-7_MBX-Series-1.5_MCA-Series-4.3_MyRussound-10.3.docx
+	 
+
+Exploring the Grouping Functionality along with the devs
+Test Case 6227: Sleep Timer Verification
+	- Navigating through the case
+Test Case 6226: Zone Grouping Verification
+	- Going through the current bugs in the case
+	- Analysing some of the functionality using the preview mode of
+		android build version 10.03.04.01
+Taking references of the above test cases to create new test cases for grouping
+
+
+Test cases:
+Test Case 6229: Starting and Ending a group
+	Created a case
+	Added steps as per the new application
+Test Case 6230: Group: Changing zone and turn on volume
+	Created a case
+	Added steps as per the new application
+Test Case 6227: Sleep Timer Verification
+	Analysing the case to write new cases based on the fucntionality
+Analysing some of the functionality using the preview mode of android build version 10.03.04.01
+
+Test cases:
+Test Case 6231: Grouping with locked device
+	Created a case
+	Added steps as per the new application
+Test Case 6232: MBX Group volume changes zonelist
+	Created a case
+	Added steps as per the new application
+Test Case 6227: Sleep Timer Verification
+	Analysing the case to write new cases based on the fucntionality
+Analysing some of the functionality using the preview mode of android build version 10.03.04.01
+
+Test cases:
+Test Case 6233: Power cycle active group
+	Created a case
+	Added steps as per the new application
+Test Case 6234: Grouping: Zone volume sliders
+	Created a case
+	Added steps as per the new application
+Test Case 6227: Sleep Timer Verification
+	Analysing the case to write new cases based on the fucntionality
+Analysing some of the functionality using the preview mode of android build version 10.03.04.01
+
+Test Case 6227: Sleep Timer Verification
+	Analysing the case to write new cases based on the fucntionality
+Looking into Test case that have RIO protocol and RIO associated with them
+Going through the RIO Protocol for third party integrators pdf
+Analysing some of the functionality using the preview mode of android build version 10.03.04.01
+
+Test cases:
+Test Case 6235: Multiple zone groups creation
+	Created a case
+	Added steps as per the new application
+Test Case 6236: Disband all zones when group leader is turned off
+	Created a case
+	Added steps as per the new application
+Test Case 6227: Sleep Timer Verification
+	Analysing the case to write new cases based on the fucntionality
+Looking into Test case that have RIO protocol and also the RIO PDF's
+
+Looking into WebConfig - MCA series/X Series
+Test Plan 78: WebConfig - Full Regression
+Test Case 5442: Lockdown: Verify locked
+Bug 18586 No way to view controller's ip address from keypad or other UI when in locked state.
+Bug 18578 Unable to unlock device on webpage after factory init
+Bug 18633 WEB Config: "Product Locking" should be changed to other text
+Test Case 6227: Sleep Timer Verification
+	Analysing the case to write new cases based on the fucntionality
+Looking into Test cases that have RIO protocol and also the RIO PDF's
+
+Test Case 6227: Sleep Timer Verification
+Analyzing the case to write new cases based on the functionality
+Working with the devs and research to get insight of Sleep Timer
+Test Case 6228: Alarms and Schedules Verification
+Analyzing the case to write new cases based on the functionality
+Working with the devs and research to get insight of Alarms
+Writing test cases to Verify MCA zone groups are persistent based on Test case 6226
+
+Test Case 6228: Alarms and Schedules Verification
+Analyzing the case to write new cases based on the functionality
+Writing test cases to Verify MCA zone groups are persistent based on Test case 6226
+Verifying
+Test Case 6229: Starting and Ending a group
+- Checking discovery of the devices on apk
+
+Test Case 6229: Starting and Ending a group
+- Checking discovery of the devices on apk
+- DUT MCA-66
+Writing test cases to Verify MCA zone groups are persistent based on Test case 6226
+Test Case 6227: Sleep Timer Verification
+Analyzing the case to write new cases based on the functionality
