@@ -189,3 +189,10 @@ Test Case 6229: Starting and Ending a group
 Writing test cases to Verify MCA zone groups are persistent based on Test case 6226
 Test Case 6227: Sleep Timer Verification
 Analyzing the case to write new cases based on the functionality
+
+Test Case 6228: Alarms and Schedules Verification
+Analyzing the case to write new cases based on the functionality
+Test Case 6229: Starting and Ending a group
+- Checking discovery of the devices on apk
+- DUT MCA-66
+Looking into Test cases that have RIO protocol and also the RIO PDF's
